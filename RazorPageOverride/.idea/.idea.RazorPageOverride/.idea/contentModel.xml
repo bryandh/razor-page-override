@@ -33,7 +33,9 @@
             <e p="_ViewStart.cshtml" t="Include" />
             <e p="About.cshtml" t="Include" />
             <e p="About.cshtml.cs" t="Include" />
-            <e p="Components" t="Include" />
+            <e p="Components" t="Include">
+              <e p="_Header.cshtml" t="Include" />
+            </e>
             <e p="Contact.cshtml" t="Include" />
             <e p="Contact.cshtml.cs" t="Include" />
             <e p="Index.cshtml" t="Include" />
