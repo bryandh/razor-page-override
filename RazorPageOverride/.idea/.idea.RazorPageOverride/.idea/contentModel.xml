@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RazorPageOverride" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Infra" t="Include">
+          <e p="ThemeTemplatePageRouteModelConvention.cs" t="Include" />
+          <e p="ThemeViewLocationExpander.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="RazorPageOverride.AssemblyInfo.cs" t="Include" />
+              <e p="RazorPageOverride.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Overrides" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="About.cshtml" t="Include" />
+            <e p="About.cshtml.cs" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Index.cshtml.cs" t="Include" />
+          </e>
+          <e p="Theme" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="About.cshtml" t="Include" />
+            <e p="About.cshtml.cs" t="Include" />
+            <e p="Components" t="Include" />
+            <e p="Contact.cshtml" t="Include" />
+            <e p="Contact.cshtml.cs" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Index.cshtml.cs" t="Include" />
+            <e p="Shared" t="Include">
+              <e p="_Layout.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RazorPageOverride.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="RazorPageOverride.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_RazorPageOverride.1716337501.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>

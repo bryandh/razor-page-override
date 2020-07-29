@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2585d9e1-e43a-415f-9765-8a6d3b99fe8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPageOverride/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19C2CCA0-B8C1-473C-8397-D1E41F304E2A/16E/AttributeRouteModel.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RazorPageOverride/Infra/ThemeViewLocationExpander.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/About.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/Contact.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/Index2.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/About.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/About.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/Contact.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/Index.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Infra/ThemeTemplatePageRouteModelConvention.cs" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Theme/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/About.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Pages/Overrides/Index.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPageOverride/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJ1jvdrOTM4VqpoTeHCokW5j4m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected=".NET Project.RazorPageOverride">
+    <configuration name="RazorPageOverride" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RazorPageOverride/bin/Debug/netcoreapp3.1/RazorPageOverride.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RazorPageOverride" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RazorPageOverride/RazorPageOverride.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RazorPageOverride" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RazorPageOverride/RazorPageOverride.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="RazorPageOverride" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RazorPageOverride: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RazorPageOverride/RazorPageOverride.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.RazorPageOverride" />
+      <item itemvalue=".NET Launch Settings Profile.RazorPageOverride: IIS Express" />
+      <item itemvalue=".NET Project.RazorPageOverride" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2585d9e1-e43a-415f-9765-8a6d3b99fe8c" name="Default Changelist" comment="" />
+      <created>1595921520224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595921520224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2044" y="395" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595923409620">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2044" y="395" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1595923409620" />
+    <state width="571" height="466" key="DebuggerActiveHint" timestamp="1596022788323">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="571" height="466" key="DebuggerActiveHint/0.23.3440.1417@0.23.3440.1417" timestamp="1596022788323" />
+    <state x="2334" y="503" key="EnvironmentVariablesDialog" timestamp="1595923395376">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2334" y="503" key="EnvironmentVariablesDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1595923395376" />
+    <state width="1678" height="348" key="GridCell.Tab.0.bottom" timestamp="1596025050003">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="348" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1596025050003" />
+    <state width="1638" height="625" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1595959974581" />
+    <state width="1678" height="348" key="GridCell.Tab.0.center" timestamp="1596025050003">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="348" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1596025050003" />
+    <state width="1638" height="625" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1595959974579" />
+    <state width="1678" height="348" key="GridCell.Tab.0.left" timestamp="1596025050002">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="348" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1596025050002" />
+    <state width="1638" height="625" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1595959974578" />
+    <state width="1678" height="348" key="GridCell.Tab.0.right" timestamp="1596025050003">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="348" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1596025050003" />
+    <state width="1638" height="625" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1595959974580" />
+    <state width="1678" height="566" key="GridCell.Tab.1.bottom" timestamp="1596025049994">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.1.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049994" />
+    <state width="1678" height="566" key="GridCell.Tab.1.center" timestamp="1596025049993">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.1.center/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049993" />
+    <state width="1678" height="566" key="GridCell.Tab.1.left" timestamp="1596025049993">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.1.left/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049993" />
+    <state width="1678" height="566" key="GridCell.Tab.1.right" timestamp="1596025049994">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.1.right/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049994" />
+    <state width="1678" height="566" key="GridCell.Tab.2.bottom" timestamp="1596025049996">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.2.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049996" />
+    <state width="1678" height="566" key="GridCell.Tab.2.center" timestamp="1596025049996">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.2.center/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049996" />
+    <state width="1678" height="566" key="GridCell.Tab.2.left" timestamp="1596025049995">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.2.left/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049995" />
+    <state width="1678" height="566" key="GridCell.Tab.2.right" timestamp="1596025049996">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.2.right/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049996" />
+    <state width="1678" height="566" key="GridCell.Tab.3.bottom" timestamp="1596025049995">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.3.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049995" />
+    <state width="1678" height="566" key="GridCell.Tab.3.center" timestamp="1596025049994">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.3.center/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049994" />
+    <state width="1678" height="566" key="GridCell.Tab.3.left" timestamp="1596025049994">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.3.left/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049994" />
+    <state width="1678" height="566" key="GridCell.Tab.3.right" timestamp="1596025049995">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="566" key="GridCell.Tab.3.right/0.23.3440.1417@0.23.3440.1417" timestamp="1596025049995" />
+    <state x="2089" y="370" key="SettingsEditor" timestamp="1595923405784">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2089" y="370" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1595923405784" />
+    <state width="860" height="709" key="XDebugger.FullValuePopup" timestamp="1596022788320">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="860" height="709" key="XDebugger.FullValuePopup/0.23.3440.1417@0.23.3440.1417" timestamp="1596022788320" />
+    <state x="2237" y="500" width="685" height="462" key="find.popup" timestamp="1595923307300">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2237" y="500" width="685" height="462" key="find.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1595923307300" />
+    <state width="650" height="169" key="javadoc.popup.new" timestamp="1596024651164">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="650" height="169" key="javadoc.popup.new/0.23.3440.1417@0.23.3440.1417" timestamp="1596024651164" />
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1596028606095">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1596028606095" />
+  </component>
+</project>
