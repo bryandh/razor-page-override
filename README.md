@@ -20,14 +20,10 @@ The behaviour that I would like to have with these pages:
 - Contact page with /contact route used from Pages/Theme
 
 This works as I want it to work.  
-However, any anchor tags I create in an Pages/Overrides page to a non-overriden page in Pages/Theme using the anchor tag helper does not create a the necessary route.  
-See the index page where I have a link to the About page and a link to the Contact page. The About page link is generated correctly as the About page is also in the same folder. However, the Contact page link does not seem to be generated properly. Generation of the anchor tag doesn't seem to take the locations views can be situatied in into account.
+However, the anchor tags created in the Pages/Theme/Components/\_Header partial to a non-overriden page in Pages/Theme using the anchor tag helper does not create the correct route.  
+See the root/index page where the \_Header component is included. The About page link is generated correctly as the About page is also in the same folder. However, the Contact page link does not seem to be generated properly. This link to the Contact page only works when you're on the Contact page itself, as that is situated in Pages/Theme.
+Generation of the anchor tag doesn't seem to take the locations views can be situatied in into account.
 
-How can I generate a link to the Contact page from the overriding Index page without explicitly stating the exact path the view is in?
+Because the link is in a component that I do not want to override, I can't modify the `asp-page` attribute to fix the problem.
 
-Not the desired outcome:  
-```<a asp-page="../Theme/Contact">Go to Contact</a>```
-
-Desired outcome:  
-```<a asp-page="Contact">Go to Contact</a>```
-
+How can I let the Header component generate a link to the Contact Theme page from the overriding Index page?
